@@ -1,0 +1,33 @@
+[
+    {
+        title: "Studio Apartment",
+        image: "image_local_1",
+        price: "$ 20",
+        description: "23 Cross, HRBR layout, bangalore",
+        id: "1"
+    },
+    {
+        title: "Studio Apartment",
+        image: "image_local_2",
+        price: "$ 20",
+        description: "23 Cross, HRBR layout, bangalore",
+        id: "2"
+
+    },
+    {
+        title: "Studio Apartment",
+        image: "image_local_1",
+        price: "$ 20",
+        description: "23 Cross, HRBR layout, bangalore",
+        id: "3"
+
+    },
+    {
+        title: "Studio Apartment",
+        image: "image_local_2",
+        price: "$ 20",
+        description: "23 Cross, HRBR layout, bangalore",
+        id: "4"
+
+    }
+]
